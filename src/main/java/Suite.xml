@@ -1,0 +1,9 @@
+<suite name = "SeleniumOnlineProject1">
+
+   <test name = "LoginModule">
+      <classes>
+         <class name = "com.bitm.SeleniumOnlineProject1.Test.LoginTest"/>
+      </classes>
+   </test>
+   
+</suite>  

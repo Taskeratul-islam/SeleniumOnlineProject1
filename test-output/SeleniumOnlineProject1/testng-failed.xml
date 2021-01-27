@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SeleniumOnlineProject1]">
+  <test thread-count="5" name="LoginModule(failed)">
+    <classes>
+      <class name="com.bitm.SeleniumOnlineProject1.Test.LoginTest">
+        <methods>
+          <include name="logintest"/>
+          <include name="homepagetitleverify"/>
+        </methods>
+      </class> <!-- com.bitm.SeleniumOnlineProject1.Test.LoginTest -->
+    </classes>
+  </test> <!-- LoginModule(failed) -->
+</suite> <!-- Failed suite [SeleniumOnlineProject1] -->
